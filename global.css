@@ -1,0 +1,58 @@
+/*UNIVERSAIS*/
+ul {
+    box-sizing: border-box;
+    display: flex;
+    list-style: none;
+    width: 100%;
+}
+ul a {
+    display: block;
+    margin-top: .5rem;
+    padding: 12.5px 50px 0 50px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: rgba(8, 8, 8, 0.837);
+}
+
+#imagem {
+    margin-top: 1%;
+    margin-left: 40%;
+    width: 8%;
+    color: #fff;
+    overflow: hidden;
+    display: flex;
+    text-overflow: ellipsis;
+}
+
+header {
+  background-color: greenyellow;
+  margin: 1%;
+  width: 98%;
+  float: left;
+  text-align: center;
+  position: relative;
+}
+
+#logo {
+  font-size: 2rem;
+  font-weight: bold;
+  color: rgba(8, 8, 8, 0.837);
+  text-transform: uppercase;
+  margin-top: 3%;
+  margin-right: 20%;
+}
+
+#container {
+    margin-left: 35%;
+}
+
+#container button {
+    margin-right: 2%;
+    border-radius: 25%;
+    width: 12.5%;
+    padding: 15px;
+    text-align: center;
+}
+
+/*FIM DE UNIVERSAIS*/
